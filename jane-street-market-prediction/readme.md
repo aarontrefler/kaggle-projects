@@ -1,6 +1,6 @@
 # Jane Street Market Prediction
 
-[Kaggle Competition Link](https://www.kaggle.com/c/jane-street-market-prediction/)
+[Kaggle Competition Link](https://www.kaggle.com/c/jane-street-market-prediction/)  
 Submission Date: 02-22-2021
 
 

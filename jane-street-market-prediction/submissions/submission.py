@@ -16,6 +16,10 @@ def filter_rows_with_zero_weight(pd_df):
     return pd_df.loc[pd_df.weight != 0]
 
 
+def filter_rows_pre_day_85(pd_df):
+    return pd_df.loc[pd_df.date > 85]
+
+
 def fill_missing_values(pd_df):
     return pd_df.fillna(-999)
 
@@ -36,6 +40,7 @@ pd_train = dt.fread('/kaggle/input/jane-street-market-prediction/train.csv').to_
 # Preprocess data
 pd_train_clean = (pd_train
     .pipe(filter_rows_with_zero_weight)
+     .pipe(filter_rows_pre_day_85)
     .pipe(fill_missing_values)
     .pipe(create_action_col)
     .pipe(convert_dtypes))

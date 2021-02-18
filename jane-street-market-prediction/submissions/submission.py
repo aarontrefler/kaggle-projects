@@ -46,11 +46,10 @@ pd_train_clean = (pd_train
     .pipe(convert_dtypes))
 del pd_train
 
-
 # Train setup
 clf = xgb.XGBClassifier(
-    n_estimators=500,
-    max_depth=11,
+    n_estimators=100,
+    max_depth=5,
     learning_rate=0.05,
     subsample=0.9,
     colsample_bytree=0.7,

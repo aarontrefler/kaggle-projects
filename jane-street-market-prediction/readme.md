@@ -26,3 +26,6 @@ sudo yum --enablerepo=epel install p7zip
 ├── working      <- Jupyter notebooks
 ├── readme.md
 ```
+
+## Resources
+* [Kaggle Notebook: Market Prediction Xgboost with GPU Fit in 1min](https://www.kaggle.com/hamditarek/market-prediction-xgboost-with-gpu-fit-in-1min)

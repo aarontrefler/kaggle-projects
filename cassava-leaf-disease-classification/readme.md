@@ -1,8 +1,10 @@
 # Cassava Leaf Disease Classification
-
-[Kaggle Competition Link](https://www.kaggle.com/c/cassava-leaf-disease-classification)  
+* [Kaggle Competition Link](https://www.kaggle.com/c/cassava-leaf-disease-classification)  
 * Submission Date: 02-18-2021  
 * Score: 2708th / 3900 (Top 70%)
+
+## Resources
+* Based on [Kaggle Notebook - Cassava classification - EDA & fastai starter](https://www.kaggle.com/tanlikesmath/cassava-classification-eda-fastai-starter)
 
 ## Overview
 * **Goal**: Classify images of Cassava leaves into one of four disease categories or a healthy category
@@ -15,3 +17,5 @@
 ├── working      <- Jupyter submission notebook
 ├── readme.md
 ```
+
+

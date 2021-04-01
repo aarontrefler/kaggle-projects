@@ -9,10 +9,10 @@
 
 ## Overview
 ---
-The aim of this project was to test the effectivness of using AWS Autopilot. Work was done in a SageMaker Studio environment.
+The aim of this project was to test the effectiveness of using AWS Autopilot. Work was done in a SageMaker Studio environment.
 * **Goal**: Create a model that predicts the probability of a positive outcome.
-* **Preprocessing**: AWS Autopilot Experiment (defualt settings)
-* **Modeling**: AWS Autopilot Experiment (defualt settings)
+* **Preprocessing**: AWS Autopilot Experiment (default settings)
+* **Modeling**: AWS Autopilot Experiment (default settings)
 
 ## Project
 ---

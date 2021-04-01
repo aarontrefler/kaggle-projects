@@ -5,3 +5,4 @@
 3. (02-18-2021) [Cassava Leaf Disease Classification](https://github.com/aarontrefler/kaggle-projects/tree/main/cassava-leaf-disease-classification)
 4. (02-22-2021) [Jane Street Market Prediction](https://github.com/aarontrefler/kaggle-projects/tree/main/jane-street-market-prediction)
 5. (03-31-2021) [Tabular Playground Series - Mar 2021](https://github.com/aarontrefler/kaggle-projects/tree/main/tabular-playground-march-21)
+6. (04-30-2021) [Tabular Playground Series - Apr 2021: Synthanic](https://www.kaggle.com/c/tabular-playground-series-apr-2021/overview/description)

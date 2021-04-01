@@ -1,7 +1,7 @@
 # Tabular Playground Series - Mar 2021
 * [Kaggle Competition Link](https://www.kaggle.com/c/tabular-playground-series-mar-2021/overview)  
 * Submission Date: 03-31-2021
-* Score: TBD
+* Score: 534/1495 (Top 36%)
 
 ## Resources
 ---

@@ -8,7 +8,7 @@
 ---
 The aim of this project was to compare the effectiveness of the following tabular modelling approaches: XGBoost, Fastai Neural Network, TPOT AutoML.
 * **Goal**: Create a model that predicts the survival outcome of a passenger on the Synthanic (i.e., simulated Titanic)
-* **Preprocessing**: Feature engineering based on several publican available Kaggle kernels
+* **Preprocessing**: Feature engineering based on several publicy available Kaggle kernels
 * **Modelling**
   * **XGBoost**: Test/Validation split was used to find the optimal tree limit. Final model was fit with the optimal tree limit and the entire labeled dataset.
   * **Fastai**: Model fit using default settings over 5 epochs. Custom imputation followed by Fastai processing (i.e., Catigorify and Normalization) was utilized
